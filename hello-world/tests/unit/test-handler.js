@@ -20,3 +20,4 @@ describe('Tests index', function () {
         // expect(response.location).to.be.an("string");
     });
 });
+
